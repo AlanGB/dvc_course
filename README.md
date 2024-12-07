@@ -1,4 +1,5 @@
 # dvc_course
+<<<<<<< HEAD
 
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
@@ -59,3 +60,6 @@ for the dvc certification course
 
 --------
 
+=======
+A project involving Kaggle's competition on LLM fine tunning and used as a practice for the DVC certification
+>>>>>>> 98f6e9ce0e76b500ad6143f8d9dc2f6b27866e92
